@@ -1,0 +1,9 @@
+SQL Essentials - Reporting and Analysis Project
+This module contains the exercises, projects, and scripts I developed while completing the "SQL Essential Training" course by Walter Shields. The course provided a comprehensive understanding of SQL fundamentals, including:
+
+Writing basic SQL queries to retrieve data from databases
+Using SQL functions to perform calculations and data manipulation
+Joining tables to extract data from multiple sources
+Aggregating and filtering data to generate meaningful reports
+Working with complex queries for advanced data analysis
+I’ve applied these skills in several hands-on projects that demonstrate practical applications of SQL for solving data-related challenges. Feel free to explore the scripts and queries within this repository!
